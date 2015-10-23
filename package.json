@@ -1,0 +1,40 @@
+{
+  "name": "exec-promised",
+  "version": "1.0.0",
+  "description": "Execute commands from NodeJS using promises",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timthesinner/exec-promised.git"
+  },
+  "keywords": [
+    "promise",
+    "exec",
+    "spawn",
+    "promised",
+    "commandline",
+    "promise-exec",
+    "exec-promise"
+  ],
+  "author": {
+    "name": "TimTheSinner",
+    "email": "timthesinner@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "TimTheSinner",
+      "email": "timthesinner@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timthesinner/exec-promised/issues"
+  },
+  "homepage": "https://github.com/timthesinner/exec-promised#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
