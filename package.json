@@ -1,6 +1,6 @@
 {
   "name": "exec-promised",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Execute commands from NodeJS using promises",
   "main": "./lib",
   "scripts": {
